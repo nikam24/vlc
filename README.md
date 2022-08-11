@@ -30,7 +30,7 @@ This allows embedding the engine in 3rd party applications, while letting them t
 VLC is available for the following platforms:
 - [Windows] *(from 7 and later, including UWP platforms and all versions of Windows 10)*
 - [macOS] *(10.10 and later)*
-- [GNU/Linux] and affiliated
+- [GNU/Linux] and affiliat
 - \*BSD and affiliated
 - [Android] *(4.2 and later)*, including Android TV and Android Auto
 - [iOS] *(9 and later)*, including AppleTV and iPadOS
